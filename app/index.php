@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'Bransy'?></h1>
+        <h1>Hallo <?php echo 'Bransy V3'?></h1>
         <p class="lead">Bransys Example Dockerfile PHP</p>
       </div>
 
